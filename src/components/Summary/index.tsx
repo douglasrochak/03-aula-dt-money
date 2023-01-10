@@ -19,7 +19,7 @@ export function Summary() {
 
       <SummaryCard>
         <header>
-          <span>Entradas</span>
+          <span>Saídas</span>
           <ArrowCircleDown color="#f75a68" size={32} />
         </header>
 

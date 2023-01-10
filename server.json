@@ -1,4 +1,4 @@
-{ 
+{
   "transactions": [
     {
       "id": 1,
@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1450,
       "createdAt": "2023-01-05T21:10:27.127Z"
+    },
+    {
+      "description": "Fone Bluetooth",
+      "type": "outcome",
+      "category": "Equipamento",
+      "price": 120,
+      "createdAt": "2023-01-10T05:52:57.513Z",
+      "id": 4
+    },
+    {
+      "description": "Planilha",
+      "type": "income",
+      "category": "Serviço",
+      "price": 100,
+      "createdAt": "2023-01-10T06:15:11.607Z",
+      "id": 5
     }
   ]
 }
